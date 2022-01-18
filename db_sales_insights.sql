@@ -1,1 +1,0 @@
-SELECT * FROM sales.customers WHERE sales.customers.customer_type = 'E-Commerce';
