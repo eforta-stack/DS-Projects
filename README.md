@@ -11,6 +11,7 @@ The program learns from a library of 70,000 images and clothing to predict 9 cat
 Technologies used are Tensorflow, Numpy, and Matplotlib. Currently the project requires images to be scaled to 28x28x1x1 pixels
 and makes predictions on batches of images only.
 
+# License
 MIT License
 
 Copyright (c) [2022] [Eliyahu Moshe Forta]
